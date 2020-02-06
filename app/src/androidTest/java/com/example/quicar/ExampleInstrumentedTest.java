@@ -1,4 +1,4 @@
-package com.example.quicar;
+package com.example.QuicaR;
 
 import android.content.Context;
 
